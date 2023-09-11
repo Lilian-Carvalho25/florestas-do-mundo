@@ -5,6 +5,7 @@ Este é um projeto focado em algumas das florestas do mundo.
 - Página linda, e bem construída <br>
 - Interatividade com o carrossel das florestas <br><br>
 
+<img src="https://i.imgur.com/u8UcSLa.png" width="600px" />
 
 ## 🖥️ Tecnologias utilizadas:<br>
 ###
@@ -21,4 +22,4 @@ Este é um projeto focado em algumas das florestas do mundo.
 
 ###
 
-**Link do site:** <i>[clique aqui]() <br>
+**Link do site:** <i>[clique aqui](https://lilian-carvalho25.github.io/florestas-do-mundo/) <br>
